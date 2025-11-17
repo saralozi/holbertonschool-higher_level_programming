@@ -1,4 +1,4 @@
--- Write a script that creates a table called first_table in the current database in your MySQL server.
+-- A script that creates a table in the current database in MySQL server.
 
 -- Create table with columns
 CREATE TABLE IF NOT EXISTS first_table (
