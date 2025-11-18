@@ -3,4 +3,4 @@
 -- Delete all records of table filtering by score
 DELETE
 FROM second_table
-WHERE score <= 5
+WHERE score <= 5;
